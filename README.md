@@ -2,6 +2,8 @@
  Netflix Clone Landing Page
 
 
+![Design preview for the WatchFlix](./images/Website_preview.png)
+
 This is a clone of the Netflix landing page created using HTML and CSS. It mimics the design and layout of the original Netflix website.
 Just wanna use this to improve on my html and css fundamental skill.
 
